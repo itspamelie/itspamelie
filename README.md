@@ -60,5 +60,29 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contactame🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="mailto:pamelamartinez2003@hotmail.com">
+    <img align="center" src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="outlook" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/pamela-mart%C3%ADnez-4b4a4439a/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="50" width="50" />
+  </a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=TU_USUARIO&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 
 
