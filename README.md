@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera%20en%20Sistemas%20Computacionales;Especialidad%20en%20Desarrollo%20Web;Desarrolladora%20Full%20Stack;Desarrollo%20de%20Aplicaciones%20Web;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera%20en%20Sistemas%20Computacionales&center=true&width=600&height=50">
   </a>
 </p>
 
